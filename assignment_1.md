@@ -15,7 +15,7 @@ Accessories->cmd or type 'cmd' in search.
 you programme (for print 'Hellow world' in console)  
 * You can open this file in text redactor (such as notepad or geany)  
 
-...# print you code here and commit this file into this git (read the information to  
+...# print you code in you fork brunch and commit this file into it (read the information to  
 understand how)
     
     
@@ -23,9 +23,10 @@ understand how)
 Git is a system of version control, and effectivly use for bild a code progects.  
 To use this system register in [GitHub](https://github.com/). Then find my   
 [project](https://github.com/DimYun/school_projects.git) and fork it. And then,   
-when you complite you assignment - create new file in this repository name like   
+when you complite you assignment - create new file in forked repository name like   
 'assign_YOU_NAME.py'
 
+* Tell me when you do it (in vk or e-mail)
 
 ## Information
 1. Read [habrahabr_1](http://habrahabr.ru/post/205944/), [habrahabr_2](http://habrahabr.ru/post/60030/)
